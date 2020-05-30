@@ -1,3 +1,5 @@
 <template>
-    <div>hello git!</div>
+    <div>
+        <label>hello git!</label>
+    </div>
 </template>
